@@ -189,23 +189,6 @@ class: text-center
 
 Don’t let yourself drift into transactional delivery. Reclaim the mission, rebuild the mindset.
 
----
-layout: end
----
-
-
-
-<!--
-Now, we want to dive deeper into three core pillars of the 'Human Hack'. We've structured this as an interactive session. I'll give a brief overview of each, and then you can choose where we go next.
-
-1.  **People Over Process:** This is about sharpening our critical thinking skills and building the strong, trusting relationships that are the bedrock of any successful engagement.
-
-2.  **Missionaries vs. Mercenaries:** This explores the powerful difference between a team that works for a paycheck and a team that works for a purpose, and how to build the latter.
-
-3.  **A Culture of Excellence:** This is about the undeniable link between your internal culture and your external results. How the way you treat your team directly impacts how they treat your clients.
-
-So, where should we start?
--->
 
 ---
 layout: default
@@ -460,3 +443,21 @@ A practical example of shifting the language.
 <div class="mt-4">
   <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
+
+---
+layout: end
+---
+
+
+
+<!--
+Now, we want to dive deeper into three core pillars of the 'Human Hack'. We've structured this as an interactive session. I'll give a brief overview of each, and then you can choose where we go next.
+
+1.  **People Over Process:** This is about sharpening our critical thinking skills and building the strong, trusting relationships that are the bedrock of any successful engagement.
+
+2.  **Missionaries vs. Mercenaries:** This explores the powerful difference between a team that works for a paycheck and a team that works for a purpose, and how to build the latter.
+
+3.  **A Culture of Excellence:** This is about the undeniable link between your internal culture and your external results. How the way you treat your team directly impacts how they treat your clients.
+
+So, where should we start?
+-->
