@@ -101,7 +101,7 @@ class: text-center
 Microsoft MVP
 
 <!-- Add Dan's bio or key points here -->
-
+ 
 ::right::
 
 <img src="https://avatars.githubusercontent.com/u/90565164" class="rounded-full h-40 w-40 mx-auto" alt="Ian Tweedie">
