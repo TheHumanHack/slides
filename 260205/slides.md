@@ -89,13 +89,18 @@ Today, we'll show you how to reclaim the mission and become the kind of consulta
 
 ---
 layout: about-me
+helloMsg: Hello!
+name: Dan Barber
+imageSrc: https://avatars.githubusercontent.com/u/28728735
+position: left
+job: MVP
+line1: 
+line2: 
+social1: 
+social2: 
+social3: 
 ---
 <!-- SECTION 2: INTRODUCTIONS -->
-
-<img src="https://avatars.githubusercontent.com/u/12345" class="rounded-full h-40 w-40 mx-auto" alt="Dan Barber">
-
-### Dan Barber
-Microsoft MVP
 
 <!-- Add Dan's bio or key points here -->
 
@@ -112,7 +117,7 @@ helloMsg: Hello!
 name: Ian Tweedie
 imageSrc: https://avatars.githubusercontent.com/u/90565164
 position: right
-job: <job title>
+job: Senior Technical Consultant
 line1: 
 line2: 
 social1: 
