@@ -1,14 +1,16 @@
 ---
-<!-- MINI-DECK 4: THINKING LIKE A PARTNER -->
 layout: statement
+routeAlias: thinking-like-a-partner
 ---
+
+<!-- MINI-DECK 4: THINKING LIKE A PARTNER -->
 
 # From Vendor to Partner
 
 It's not about what you build. It's about the **business outcome** you create.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 <!--
@@ -41,7 +43,7 @@ graph TD
 ```
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 <!--
@@ -62,7 +64,7 @@ image: https://cover.sli.dev
 - **Think About People:** A solution no one uses is a failure. Plan for change.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 ---
@@ -90,5 +92,5 @@ A practical example of shifting the language.
 **Focus:** Business impact (Risk, Time, Money).
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>

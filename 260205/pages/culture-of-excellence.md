@@ -1,6 +1,8 @@
 ---
 layout: default
+routeAlias: culture-of-excellence
 ---
+
 <!-- MINI-DECK 3: CULTURE OF EXCELLENCE -->
 
 # The Golden Rule of Consulting Culture
@@ -10,7 +12,7 @@ layout: default
 It is a direct and unavoidable reflection.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 <!--
@@ -41,5 +43,5 @@ layout: default
 A valued employee doesn't just complete tasks; they go the extra mile because they are proud of their work and their company.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>

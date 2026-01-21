@@ -1,5 +1,6 @@
 ---
 layout: default
+routeAlias: missionaries-vs-mercenaries
 ---
 <!-- MINI-DECK 2: MISSIONARY VS MERCENARY -->
 
@@ -27,7 +28,7 @@ layout: default
 </div>
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 <!--

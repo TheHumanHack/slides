@@ -1,5 +1,6 @@
 ---
 layout: default
+routeAlias: people-over-process
 ---
 
 # People Over Process
@@ -10,7 +11,7 @@ layout: default
 - **Focus on Business Value:** Frame every task in the context of the client's goals.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
 
 <!--
@@ -39,5 +40,5 @@ layout: default
 - **Be Genuinely Curious:** A consultant's greatest tool is curiosity.
 
 <div class="mt-4">
-  <span @click="$slidev.nav.go(5)" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
 </div>
