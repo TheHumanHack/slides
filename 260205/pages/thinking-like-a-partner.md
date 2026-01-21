@@ -68,6 +68,22 @@ image: https://cover.sli.dev
 </div>
 
 ---
+layout: default
+---
+
+# The TMR Framework
+
+A simple way to connect your work to what the business *really* cares about.
+
+- **Time:** How can we save time for users, employees, or the business? Can we make a process faster? Can we automate a manual task?
+- **Money:** How can we increase revenue or decrease costs? Does this feature unlock a new market? Does this optimization reduce operational expenses?
+- **Risk:** How can we reduce risk for the client? This could be security vulnerabilities, compliance issues, or the danger of being outpaced by competitors.
+
+<div class="mt-4">
+  <span @click="$slidev.nav.go('explore')" class="cursor-pointer text-sm opacity-75 hover:opacity-100">&lt; Back to Exploration</span>
+</div>
+
+---
 layout: two-cols
 ---
 

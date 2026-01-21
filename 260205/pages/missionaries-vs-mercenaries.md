@@ -2,6 +2,7 @@
 layout: default
 routeAlias: missionaries-vs-mercenaries
 ---
+
 <!-- MINI-DECK 2: MISSIONARY VS MERCENARY -->
 
 # Missionaries vs. Mercenaries

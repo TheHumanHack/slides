@@ -176,11 +176,19 @@ So, where should we start?
 ---
 src: ./pages/people-over-process.md
 ---
+
+---
 src: ./pages/missionaries-vs-mercenaries.md
+---
+
 ---
 src: ./pages/culture-of-excellence.md
 ---
+
+---
 src: ./pages/thinking-like-a-partner.md
+---
+
 ---
 layout: center
 class: text-center
